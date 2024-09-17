@@ -1,6 +1,6 @@
 name: maps_launcher
 description: Simple Flutter plugin to open the maps application (or browser) on all platforms.
-version: 2.4.0
+version: 2.4.1
 homepage: https://github.com/pikaju/flutter-maps-launcher
 
 publish_to: 'none'
